@@ -1,4 +1,0 @@
-f = open('phy3_2.txt', 'w')
-lines = f.readlines
-header = lines[0].split('\t')
-print header
